@@ -4,5 +4,6 @@
 - c
 ```python
 
-	def 
+	def release(cell_list):
+		print(cell_list)
 ```
